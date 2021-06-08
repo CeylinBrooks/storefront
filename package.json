@@ -1,0 +1,19 @@
+{
+  "name": "storefront",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CeylinBrooks/storefront.git"
+  },
+  "author": "Ceylin Brooks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CeylinBrooks/storefront/issues"
+  },
+  "homepage": "https://github.com/CeylinBrooks/storefront#readme"
+}
